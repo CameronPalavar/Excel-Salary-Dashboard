@@ -11,6 +11,7 @@ This dashboard was created to identify the differences in salaries around the wo
 - Different types of job (full-time vs part time)
 ## Skills used
 - Logical functions
+- Lookup functions
 - Array functions
 - Statistics
 - Data visualistion
